@@ -74,6 +74,8 @@ This is not a production-grade electrical simulation. It is a lightweight planni
 
 Prototype / research-stage project. The current repository documents the design logic, early prototype, and future improvement directions.
 
+Instagram: @urjaloomxrevoltride
+
 ## Future Work
 
 - Improve voltage stabilization and storage efficiency.
