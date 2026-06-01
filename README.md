@@ -4,7 +4,6 @@ Urja Loom is a sustainable energy-harvesting prototype that converts the repetit
 
 The project was developed during the IIT Delhi Changemakers Bootcamp 2.0 as a community-centered design response to unreliable electricity access, dim workspaces, and the cost of generator-based lighting in handloom and tailoring contexts.
 
-![Piezoelectric tile prototype]
 ## Problem
 
 Many handloom weavers and tailors work in informal or semi-formal settings where electricity supply can be unreliable. When power fails, work hours, productivity, and earnings are affected. Generator-based backup is expensive and carbon-intensive.
