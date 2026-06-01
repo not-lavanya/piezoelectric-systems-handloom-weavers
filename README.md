@@ -84,5 +84,5 @@ Prototype / research-stage project. The current repository documents the design 
 
 ## Acknowledgements
 
-Developed as part of IIT Delhi Changemakers Bootcamp 2.0 with mentorship from Prof. Jay Dhariwal and the bootcamp team.
+Developed as part of IIT Delhi Changemakers Bootcamp 2.0 with mentorship from Prof. Jay Dhariwal at IIT Delhi Makerspace and the Makerspace team, with a given research grant.
 
